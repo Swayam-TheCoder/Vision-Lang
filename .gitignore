@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+paddle-venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PaddleOCR / PaddleX downloaded models
+.paddlex/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
