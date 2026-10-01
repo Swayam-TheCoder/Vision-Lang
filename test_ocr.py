@@ -8,7 +8,7 @@ ocr = PaddleOCR(
     use_textline_orientation=False
 )
 
-image_path = "pre2.jpg"
+image_path = "pre3.jpg"
 
 result = ocr.predict(image_path)
 
